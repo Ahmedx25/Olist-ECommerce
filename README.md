@@ -45,6 +45,15 @@ The project delivers 4 comprehensive dashboards covering
 *  **Product & Category Performance:** Analysis of best-selling items vs. customer review scores
 
 ---
+## 📊 Dashboards Overview
+
+<img width="1593" height="975" alt="Screenshot 2026-06-19 010606" src="https://github.com/user-attachments/assets/207ab311-927e-4f7a-a815-bca9dabf6487" />
+
+<img width="1584" height="958" alt="Screenshot 2026-06-19 010657" src="https://github.com/user-attachments/assets/55d7cf5b-54cf-4ca2-96c8-cbf1eb349829" />
+<img width="1595" height="965" alt="Screenshot 2026-06-19 010719" src="https://github.com/user-attachments/assets/734c20f5-3c30-4949-9886-6ad54059f89d" />
+
+<img width="1591" height="973" alt="Screenshot 2026-06-19 010737" src="https://github.com/user-attachments/assets/4a3c0928-32cc-47b4-b94b-2050fec29d72" />
+
 
 ##  Prescriptive Recommendations
 
